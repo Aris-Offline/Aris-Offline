@@ -8,5 +8,3 @@ I burn & reborn in flames.
 - 📫 How to reach me: You can contact me on X, bilibili and QQ. You can visit my public accounts in my profiles.
 - 😄 Pronouns: Music , design and programming.
 - ⚡ Fun fact: ~~Kids, this is not fun.~~
-
-[](https://github-readme-streak-stats.herokuapp.com/?user=Aris-Offline&layout=compact&hide_border=true&langs_count=10&theme=tokyonight)
