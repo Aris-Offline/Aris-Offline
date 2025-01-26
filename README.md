@@ -1,18 +1,15 @@
 <br>
 
-<p align="center">在烈火中化为灰烬，又于废墟中重生。</p>
-
-</br>
-
-> [!NOTE]
-> 写于 2024/10/1，记于家中的工作站上。
+<p align="center">Beneath the cutthroat shattered sunsets' glow</p>
+<p align="center">Lies a world immersed in tales of woe</p>
+<p align="center">Through twilight's cracks where the tears of sorrow blend</p>
+<p align="center">I wander lost with a rusted heart to mend</p>
 
 ---
 
-Hi，这里是 Aris，一名独立设计师/音乐制作人（初学状态），也作为合作者参与 [iNKORE Studios](https://github.com/iNKORE-NET/Documentation) 旗下产品的部分 UI 设计和文案编写。
+<br>
 
-> [!NOTE]
-> 只是一名 14 岁的初三生，且目前水平一般，所以没有必要用大佬的身份称呼我 xD
+Hi，这里是 Aris，一名独立设计师/音乐制作人（初学状态），也作为合作者参与 [iNKORE Studios](https://github.com/iNKORE-NET/Documentation) 旗下产品的部分 UI 设计和文案编写。
 
 目前喜欢 UK 系 House / Melodic Techno / Neurofunk / Indie Rock 以及一系列各种各样的音乐风格，喜欢玩诸如 Phigros / Rizline 等的音乐游戏，也喜欢 Minecraft（目前淡坑） / PvZ 等 ~~（有同好者可以线下面基）~~
 
