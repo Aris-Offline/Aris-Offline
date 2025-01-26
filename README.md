@@ -15,6 +15,14 @@ Hi，这里是 Aris，一名独立设计师/音乐制作人（初学状态），
 
 半个写手，但是觉得自己的灵感有时很好有时很烂
 
+## 个人贡献（？算吧
+
+<p align="center">
+
+![](https://github.com/Aris-Offline/Aris-Offline/blob/main/github-metrics.svg)
+
+</p>
+
 ## 如何联系？
 
 可以通过我的[电子邮箱](mailto:test_bl@outlook.com)联系我，不过我可能要一段时间后才能看到。
