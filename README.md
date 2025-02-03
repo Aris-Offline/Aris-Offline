@@ -9,7 +9,7 @@
 
 <br>
 
-Hi，这里是 Aris，一名独立设计师/音乐制作人（初学状态），也作为合作者参与 [iNKORE Studios](https://github.com/iNKORE-NET/Documentation) 旗下产品的部分 UI 设计和文案编写。
+Hi，这里是 Aris，一名独立设计师/音乐制作人（初学状态），也作为合作者参与 [iNKORE Studios](https://github.com/iNKORE-NET) 旗下产品的部分 UI 设计和文案编写。
 
 目前喜欢 UK 系 House / Melodic Techno / Neurofunk / Indie Rock 以及一系列各种各样的音乐风格，喜欢玩诸如 Phigros / Rizline 等的音乐游戏，也喜欢 Minecraft（目前淡坑） / PvZ 等 ~~（有同好者可以线下面基）~~
 
