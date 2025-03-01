@@ -1,6 +1,6 @@
 <br>
 
-<p align="center"><img width="256" src="assets\vtuber-logo.png"/></p>
+<p align="center"><img width="384" src="assets\vtuber-logo.png"/></p>
 
 <p align="center">Beneath the cutthroat shattered sunsets' glow</p>
 <p align="center">Lies a world immersed in tales of woe</p>
