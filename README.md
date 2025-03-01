@@ -1,5 +1,7 @@
 <br>
 
+<p align="center"><img width="256" src="assets\vtuber-logo.png"/></p>
+
 <p align="center">Beneath the cutthroat shattered sunsets' glow</p>
 <p align="center">Lies a world immersed in tales of woe</p>
 <p align="center">Through twilight's cracks where the tears of sorrow blend</p>
@@ -11,7 +13,7 @@
 
 >[!NOTE]
 >
-> 本人将于 2025.2.8 进入中考阶段的两轮复习，故我将会在该时间点 - 6 月下旬进入休眠状态。此时：
+> 本人将于 2025.2.8 进入中考阶段的两轮复习，故将会在该时间点 - 6 月下旬进入休眠状态。此时：
 >
 > - 🚧 **运营模式调整** / Aris 将进入常态化静默期，交互响应频率将会急剧降低。
 > - 📬 **通信方式保留** / 在多数时间你将无法通过任何渠道联系 Aris。不过你仍可以通过 [邮箱](mailto:cvmcaesr@163.com) 留言。
