@@ -22,7 +22,7 @@ Hi，这里是 Aris，一名独立设计师/音乐制作人（初学状态），
 
 ## Favors
 
-- 🎵: Electronic / Pop / Rock / Anime /Classical / Soundtrack
+- 🎵: Electronic / Pop / Rock / Anime / Classical / Soundtrack
 
 - 🕹️: Minecraft / Undertale / Blue Archive  / vivid/stasis / Phigros / Rizline / Muse Dash / Deemo II / Euro Truck Simulator 2
 
