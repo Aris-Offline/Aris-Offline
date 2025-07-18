@@ -12,7 +12,7 @@
 <a href="https://wakatime.com/@1af10820-407d-4435-90bf-82c851b3a52c"><img src="https://wakatime.com/badge/user/1af10820-407d-4435-90bf-82c851b3a52c.svg?style=flat-square&color=f47498" alt="Total time coded since Jul 18 2025" /></a>
 </p>
 
-<p align="center">Entangled with<a href="https://github.com/RinLit-233-shiroko"> @RinLit-233-Shiroko</a>
+<p align="center">Entangled with <a href="https://github.com/RinLit-233-shiroko">@RinLit-233-Shiroko</a>
 
 ---
 
