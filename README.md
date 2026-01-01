@@ -12,21 +12,28 @@
 <a href="https://wakatime.com/@1af10820-407d-4435-90bf-82c851b3a52c"><img src="https://wakatime.com/badge/user/1af10820-407d-4435-90bf-82c851b3a52c.svg?style=flat-square&color=f47498" alt="Total time coded since Jul 18 2025" /></a>
 </p>
 
-<p align="center">Entangled with <a href="https://github.com/RinLit-233-shiroko">@RinLit-233-Shiroko</a>
-
 ---
 
 <br>
 
-Hi，这里是 Aris，一名独立设计师/音乐制作人（初学状态），也作为合作者参与 [iNKORE Studios](https://github.com/iNKORE-NET) 旗下产品的部分 UI 设计和文案编写。
+Hello, Aris's here.
+
+- 👔 Currently learning **Graphic Design**, **C#**, **Composing** and **Guitar**.
+
+- 👩‍💼 Product Manager of [**iNKORE Studios**](https://inkore.net/) / Member & Designer of [**ISARO RESONANS**](https://music.163.com/#/artist?id=100164710/)
+/ Honorary Member of [**SmartTeachCN**](https://forum.smart-teach.cn/).
+
+- 💬 Ask me about **UI/UX Design** only.
+
+- 💑 Single.
 
 ## Favors
 
 - 🎵: Electronic / Pop / Rock / Anime / Classical / Soundtrack
 
-- 🕹️: Minecraft / Undertale / Blue Archive  / vivid/stasis / Phigros / Rizline / Muse Dash / Deemo II / Euro Truck Simulator 2
+- 🕹️: Minecraft / Undertale / Blue Archive  / vivid/stasis / Phigros / Rizline / Muse Dash / Deemo II / BanG Dream! / HATSUNE MIKU: COLORFUL STAGE!
 
-## 个人贡献
+## Contributions
 
 <p align="center">
 
@@ -38,14 +45,16 @@ Hi，这里是 Aris，一名独立设计师/音乐制作人（初学状态），
 
 [![My Skills](https://skillicons.dev/icons?i=cs,discord,dotnet,figma,github,html,md,ps,py,twitter,visualstudio,vscode,windows)](https://skillicons.dev)
 
-## 如何联系？
+## Contact
 
-可以通过我的[电子邮箱](mailto:test_bl@outlook.com)联系我，不过我可能要一段时间后才能看到。
+- ✉️ email: [cvmcaesr@163.com](mailto:cvmcaesr@163.com)
 
-或者，如果你想与我保持联系（或者单纯想扩列/交友），可以添加我的 QQ 3339148906。
+- ✈️ telegram: [@arisoffline](https://t.me/arisoffline/)
+
+- 🕹️ discord: [aris_offline](https://discord.gg/kERdhdTW)
 
 ## Fun facts
 
-- 🏫 有人都要高一了年龄才 14 我不说是谁
-- 🛜 什么都不会只是一味地在网上发电😭
+- 🏫 Currently studying in a senior high school in China. 15 yrs old.
+- 🛜 I think Adobe Photoshop is too hard for me so I use Figma much more often even when I am asked to design a banner.
 - 🤣 I don't think I'm not funny **at all** lol
