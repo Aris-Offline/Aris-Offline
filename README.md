@@ -25,7 +25,7 @@ Hello, Aris's here.
 
 - 💬 Ask me about **UI/UX Design** only.
 
-- 💑 Single.
+- 💑 Single?
 
 ## Favors
 
